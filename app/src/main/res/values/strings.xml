@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LSPatch Manager (Unofficial)</string>
+    <string name="switch_header">开关</string>
+    <string name="enabled_title">激活模块</string>
+    <string name="use_embed_title">使用内置模块</string>
+    <string name="use_embed_summary_on">使用内置模块（只在原本有内置时生效）</string>
+    <string name="need_permission">请授予存储权限</string>
+    <string name="not_support_11">暂不支持 Android 11，请改用 https://t.me/lspatch_unofficial</string>
+    <string name="not_found">没有找到任何使用 LSPatch 的应用，或是无法读取 /Android/data 文件夹。</string>
+    <string name="setting_saved">设置已保存</string>
+</resources>
